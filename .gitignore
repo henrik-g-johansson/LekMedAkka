@@ -1,0 +1,8 @@
+*.suo
+**/obj/
+**/bin/
+**/packages
+.vs/
+*.user
+*.ldf
+*App_Data
